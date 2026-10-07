@@ -1,18 +1,12 @@
 # GAMEHUB pour Android
 
-Mini-jeux multijoueur entre amis : 20 jeux, défis, groupes et championnats.
+Des mini-jeux rapides à plusieurs, des défis, des groupes et des championnats entre amis.
 
 ## Télécharger
 
-Le plus simple : **https://gamehub-kaeloo.onrender.com/telecharger**
+**https://gamehub-kaeloo.onrender.com/telecharger**
 
-Ou directement le fichier de la dernière version :
-
-| Fichier | Pour quels téléphones |
-|---|---|
-| [gamehub-android.apk](https://github.com/Epaphrodi3te/gamehub-app/releases/latest/download/gamehub-android.apk) | Tous les téléphones Android (le bon choix si tu ne sais pas) |
-| [gamehub-android-64bits.apk](https://github.com/Epaphrodi3te/gamehub-app/releases/latest/download/gamehub-android-64bits.apk) | Téléphones récents (plus léger) |
-| [gamehub-android-32bits.apk](https://github.com/Epaphrodi3te/gamehub-app/releases/latest/download/gamehub-android-32bits.apk) | Anciens modèles et Android Go |
+Ou directement le fichier : [gamehub-android.apk](https://github.com/Epaphrodi3te/gamehub-app/releases/latest/download/gamehub-android.apk) (tous les téléphones Android).
 
 ## Installer
 
